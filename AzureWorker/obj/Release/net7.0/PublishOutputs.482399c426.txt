@@ -1,0 +1,7 @@
+/Users/gim-yeonghyeon/Documents/silla_cloud_study/CloudStudy/AzureWorker/bin/Release/net7.0/publish/AzureWorker
+/Users/gim-yeonghyeon/Documents/silla_cloud_study/CloudStudy/AzureWorker/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/gim-yeonghyeon/Documents/silla_cloud_study/CloudStudy/AzureWorker/bin/Release/net7.0/publish/appsettings.json
+/Users/gim-yeonghyeon/Documents/silla_cloud_study/CloudStudy/AzureWorker/bin/Release/net7.0/publish/AzureWorker.dll
+/Users/gim-yeonghyeon/Documents/silla_cloud_study/CloudStudy/AzureWorker/bin/Release/net7.0/publish/AzureWorker.deps.json
+/Users/gim-yeonghyeon/Documents/silla_cloud_study/CloudStudy/AzureWorker/bin/Release/net7.0/publish/AzureWorker.runtimeconfig.json
+/Users/gim-yeonghyeon/Documents/silla_cloud_study/CloudStudy/AzureWorker/bin/Release/net7.0/publish/AzureWorker.pdb

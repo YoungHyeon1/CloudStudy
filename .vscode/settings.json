@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "AzureWorker/bin/Release/net7.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/4b4875b4-3db4-4271-a8af-e3485fde7094/resourceGroups/Education/providers/Microsoft.Web/sites/educationAzure33"
+}
